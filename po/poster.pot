@@ -1,0 +1,67 @@
+# The Unsicherheit poster campaign translations from
+# the Unsicherheit tech collective <https://github.com/unsicherheit>, 2026.
+# This file is in the public domain (CC0).
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: The Unsicherheit poster campaign translations 2026\n"
+"Report-Msgid-Bugs-To: <https://github.com/unsicherheit/poster-translations>\n"
+"POT-Creation-Date: 2026-06-13 04:50+0100\n"
+"PO-Revision-Date: 2026-06-13 04:50+0100\n"
+"Last-Translator: The Unsicherheit poster campaign translators\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+# BKA
+msgid "federal-title"
+msgstr ""
+
+msgid "federal-body"
+msgstr ""
+
+msgid "federal-footer"
+msgstr ""
+
+# Polizei
+msgid "police-title"
+msgstr ""
+
+msgid "police-body"
+msgstr ""
+
+msgid "police-footer"
+msgstr ""
+
+# Staat
+msgid "state-title"
+msgstr ""
+
+msgid "state-body"
+msgstr ""
+
+msgid "state-footer"
+msgstr ""
+
+# Palantir
+msgid "palantir-title"
+msgstr ""
+
+msgid "palantir-body"
+msgstr ""
+
+msgid "palantir-footer"
+msgstr ""
+
+# Regierung
+msgid "government-title"
+msgstr ""
+
+msgid "government-body"
+msgstr ""
+
+msgid "government-footer"
+msgstr ""

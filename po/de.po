@@ -1,0 +1,86 @@
+# The Unsicherheit poster campaign translations from
+# the Unsicherheit tech collective <https://github.com/unsicherheit>, 2026.
+# This file is in the public domain (CC0).
+#
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-06-13 04:50+0100\n"
+"Last-Translator: The Unsicherheit tech collective\n"
+"Language-Team: German <https://hosted.weblate.org/projects/unsicherheit-poster/"
+"translations/de/>\n"
+"Language: de\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.0-dev\n"
+
+# BKA
+msgid "federal-title"
+msgstr "BKA"
+
+msgid "federal-body"
+msgstr "DEIN\nSELFIE.\nDEINE\nAKTE."
+
+msgid "federal-footer"
+msgstr ""
+"Die Polizei gleicht massenhaft Fahndungsfotos\n"
+"mit öffentlich zugänglichen Bildern aus dem\n"
+"Internet ab."
+
+# Polizei
+msgid "police-title"
+msgstr "Polizei"
+
+msgid "police-body"
+msgstr ""
+"JEDER\n"
+"KONTAKT\n"
+"EIN\n"
+"VERDACHT."
+
+msgid "police-footer"
+msgstr ""
+"Die geplante Super-Datenbank verknüpft nicht nur Verdächtige,\n"
+"sondern auch Daten von Zeugen und Kontaktpersonen,\n"
+"ohne es Dir mitzuteilen oder Dir eine Wahl zu lassen"
+
+# Staat
+msgid "state-title"
+msgstr "Staat"
+
+msgid "state-body"
+msgstr "KI-FUTTER\nSTATT\nPRIVAT-\nSPHÄRE"
+
+msgid "state-footer"
+msgstr ""
+"Ermittlungsbehörden wollen KI-Sprachmodelle ungefiltert\n"
+"mit ungeschwärzten Akten und sensiblen Bürgerdaten füttern."
+
+# Palantir
+msgid "palantir-title"
+msgstr "Palantir"
+
+msgid "palantir-body"
+msgstr ""
+"STAAT SCANNT.\n"
+"PALANTIR\n"
+"KASSIERT."
+
+msgid "palantir-footer"
+msgstr ""
+"Private Software-Konzerne erhalten Zugriff auf\n"
+"polizeiliche Ermittlungsdaten, um damit ihre\n"
+"Überwachungs-KI zu trainieren."
+
+# Regierung
+msgid "government-title"
+msgstr "Regierung"
+
+msgid "government-body"
+msgstr "UNSCHULDS-\nVERMUTUNG:\nGELÖSCHT."
+
+msgid "government-footer"
+msgstr ""
+"Wer den digitalen Raum permanent nach biometrischen\n"
+"Daten durchsucht, stellt die gesamte Bevölkerung\n"
+"unter Generalverdacht."
