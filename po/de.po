@@ -70,9 +70,9 @@ msgstr ""
 
 msgid "palantir-footer"
 msgstr ""
-"Private Software-Konzerne erhalten Zugriff auf\n"
-"polizeiliche Ermittlungsdaten, um damit ihre\n"
-"Überwachungs-KI zu trainieren."
+"Der Staat lagert Überwachungsaufgaben\n"
+"an Tech-Konzerne aus, die kommerziell von\n"
+"unseren Daten profitieren."
 
 # Regierung
 msgid "government-title"
@@ -83,6 +83,6 @@ msgstr "UNSCHULDS-\nVERMUTUNG:\nGELÖSCHT"
 
 msgid "government-footer"
 msgstr ""
-"Wer den digitalen Raum permanent nach\n"
-"biometrischen Daten durchsucht, stellt\n"
+"Flächendeckende Gesichtserkennung und\n"
+"Massenanalyse von biometrischen Daten stellen\n"
 "die gesamte Bevölkerung unter Generalverdacht."
