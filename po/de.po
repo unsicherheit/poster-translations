@@ -19,7 +19,7 @@ msgid "federal-title"
 msgstr "BKA"
 
 msgid "federal-body"
-msgstr "DEIN\nSELFIE\nDEINE\nAKTE"
+msgstr "DEIN\nSELFIE.\nDEINE\nAKTE."
 
 msgid "federal-footer"
 msgstr ""
