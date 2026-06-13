@@ -40,8 +40,9 @@ msgstr ""
 
 msgid "police-footer"
 msgstr ""
-"Die geplante Super-Datenbank verknüpft nicht nur Verdächtige,\n"
-"sondern auch Daten von Zeugen und Kontaktpersonen."
+"Die geplante Super-Datenbank verknüpft nicht\n"
+"nur Verdächtige, sondern auch Daten von Zeugen\n"
+"und Kontaktpersonen."
 
 # Staat
 msgid "state-title"
@@ -52,8 +53,9 @@ msgstr "KI-FUTTER\nSTATT\nPRIVAT-\nSPHÄRE"
 
 msgid "state-footer"
 msgstr ""
-"Ermittlungsbehörden wollen KI-Sprachmodelle ungefiltert\n"
-"mit ungeschwärzten Akten und sensiblen Bürgerdaten füttern."
+"Ermittlungsbehörden wollen KI-Sprachmodelle\n"
+"ungefiltert mit ungeschwärzten Akten und\n"
+"sensiblen Bürgerdaten füttern."
 
 # Palantir
 msgid "palantir-title"
@@ -81,6 +83,6 @@ msgstr "UNSCHULDS-\nVERMUTUNG:\nGELÖSCHT"
 
 msgid "government-footer"
 msgstr ""
-"Wer den digitalen Raum permanent nach biometrischen\n"
-"Daten durchsucht, stellt die gesamte Bevölkerung\n"
-"unter Generalverdacht."
+"Wer den digitalen Raum permanent nach\n"
+"biometrischen Daten durchsucht, stellt\n"
+"die gesamte Bevölkerung unter Generalverdacht."
