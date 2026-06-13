@@ -19,7 +19,7 @@ msgid "federal-title"
 msgstr "BKA"
 
 msgid "federal-body"
-msgstr "DEIN\nSELFIE.\nDEINE\nAKTE."
+msgstr "DEIN\nSELFIE\nDEINE\nAKTE"
 
 msgid "federal-footer"
 msgstr ""
@@ -29,24 +29,23 @@ msgstr ""
 
 # Polizei
 msgid "police-title"
-msgstr "Polizei"
+msgstr "POLIZEI"
 
 msgid "police-body"
 msgstr ""
 "JEDER\n"
 "KONTAKT\n"
 "EIN\n"
-"VERDACHT."
+"VERDACHT"
 
 msgid "police-footer"
 msgstr ""
 "Die geplante Super-Datenbank verknüpft nicht nur Verdächtige,\n"
-"sondern auch Daten von Zeugen und Kontaktpersonen,\n"
-"ohne es Dir mitzuteilen oder Dir eine Wahl zu lassen"
+"sondern auch Daten von Zeugen und Kontaktpersonen."
 
 # Staat
 msgid "state-title"
-msgstr "Staat"
+msgstr "STAAT"
 
 msgid "state-body"
 msgstr "KI-FUTTER\nSTATT\nPRIVAT-\nSPHÄRE"
@@ -58,11 +57,12 @@ msgstr ""
 
 # Palantir
 msgid "palantir-title"
-msgstr "Palantir"
+msgstr "PALANTIR"
 
 msgid "palantir-body"
 msgstr ""
-"STAAT SCANNT.\n"
+"STAAT\n"
+"SCANNT.\n"
 "PALANTIR\n"
 "KASSIERT."
 
@@ -74,10 +74,10 @@ msgstr ""
 
 # Regierung
 msgid "government-title"
-msgstr "Regierung"
+msgstr "REGIERUNG"
 
 msgid "government-body"
-msgstr "UNSCHULDS-\nVERMUTUNG:\nGELÖSCHT."
+msgstr "UNSCHULDS-\nVERMUTUNG:\nGELÖSCHT"
 
 msgid "government-footer"
 msgstr ""
